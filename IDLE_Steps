@@ -1,0 +1,3 @@
+exec(open('TeaPlant.py').read())
+
+for idle to run the command
