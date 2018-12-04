@@ -41,6 +41,6 @@ def CalculateTime(weight_tea, humidity_env):
     timing.compute()
     return (timing.output['time'])
 
-CalculateTime(weight_tea, humidity_env)
+
 
 
